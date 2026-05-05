@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build/cache folders
+build/
+dist/
+*.egg-info/
+.streamlit/secrets.toml
+
+# Data exports and logs
+*.log
+*.tmp
