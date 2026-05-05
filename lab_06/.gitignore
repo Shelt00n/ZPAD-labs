@@ -1,0 +1,14 @@
+build/
+*.o
+*.obj
+*.exe
+*.out
+*.png
+*.jpg
+*.jpeg
+*.avi
+*.mp4
+.cache/
+.vscode/
+.idea/
+.DS_Store
