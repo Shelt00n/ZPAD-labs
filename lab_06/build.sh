@@ -1,0 +1,9 @@
+#!/bin/bash
+set -e
+
+mkdir -p build
+cd build
+cmake ..
+make -j$(nproc)
+
+echo "Build complete: ./build/lab6_opencv"
